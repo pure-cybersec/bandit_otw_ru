@@ -750,7 +750,7 @@ ssh://bandit29-git@localhost/home/bandit29-git/repo
 ```console
 ssh://bandit30-git@localhost/home/bandit30-git/repo
 ```
-Пароль для пользователя bandit30-git такой же, как и для пользователя bandit29.
+Пароль для пользователя bandit30-git такой же, как и для пользователя bandit30.
 
 Клонируйте репозиторий и найдите пароль для следующего уровня.
 
